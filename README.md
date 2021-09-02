@@ -6,4 +6,4 @@ Nero müşterilerini kaydederken böyle bir şey istemiyor. Starbucks müşteril
 
 * Bu projede hem interface hem abstract yapılar kullanılıyor.
 
-  youtu.be/6VYDltTF2b4
+  youtu.be/6VYDltTF2b4 - 3.09.2021
